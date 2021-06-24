@@ -13,7 +13,7 @@
 
     <properties>
         <ldk.version>0.2.2</ldk.version>
-        <kotlin.version>1.5.0</kotlin.version>
+        <kotlin.version>1.5.20</kotlin.version>
         <bukkit.version>1.15.1-R0.1-SNAPSHOT</bukkit.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
